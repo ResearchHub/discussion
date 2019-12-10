@@ -14,3 +14,7 @@ Try to keep discussion focused on the original topic.
 
 This repository follows the [Contributor Covenant](https://www.contributor-covenant.org/) available in [`code_of_conduct.md`](code_of_conduct.md).
 Please treat others with respect and help us maintain an inclusive environment for productive discussion!
+
+## License
+
+The content of this repository including all user contributions to the corresponding GitHub Issues are released under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International Public License").
