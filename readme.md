@@ -9,3 +9,8 @@ All types of issues are allowed, including help requests, bug reports, feature r
 Please search existing issues before opening a new issue.
 If you find an issue that is related but _distinct_ from yours, it's best to create a [new issue](https://github.com/ResearchHub/discussion/issues/new) that references the existing issue.
 Try to keep discussion focused on the original topic.
+
+## Code of conduct
+
+This repository follows the [Contributor Covenant](https://www.contributor-covenant.org/) available in [`code_of_conduct.md`](code_of_conduct.md).
+Please treat others with respect and help us maintain an inclusive environment for productive discussion!
